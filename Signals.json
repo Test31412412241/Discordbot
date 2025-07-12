@@ -1,0 +1,13 @@
+{
+  "daily_signals": [
+    "Signal 1: Buy BTC at $62k, target $64k.",
+    "Signal 2: Buy ETH at $3.3k, target $3.5k.",
+    "Signal 3: Short XRP at $0.58, TP $0.54.",
+    "Signal 4: Buy DOGE at $0.12, target $0.14.",
+    "Signal 5: Buy LTC at $78, TP $85."
+  ],
+  "free_signals": [
+    "Free Signal: Long SOL at $138, target $147",
+    "Free Signal: Short ADA at $0.42, TP $0.39"
+  ]
+}
